@@ -49,8 +49,7 @@
         },
         "IMDB_TEMPLATE": {
             "description": "Imdb, template ",
-            "required": false
-            "value": "goyyswork"
+            "required": false          
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
